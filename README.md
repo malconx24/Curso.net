@@ -1,1 +1,2 @@
-Text de Readme
+la Web Api Person esta diseñada para gestionar información de personas. la cual permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) sobre registros de personas, incluyendo datos como nombre, edad, hata el momento.
+Esta API sera ideal para ser integrada en sistema de gestión de usuarios, para agendar contactos u otras aplicaciones que requieran almacenamiento y consulta de datos personales.
