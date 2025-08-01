@@ -10,6 +10,7 @@ namespace WebApiPerson.Context
              
         }
 
-        public DbSet<Person> Persons { get; set; }      
+        public DbSet<Person> Persons { get; set; }
+      
     }
 }
