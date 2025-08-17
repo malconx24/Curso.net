@@ -11,6 +11,10 @@ namespace WebApiPerson.Context
         }
 
         public DbSet<Person> Persons { get; set; }
-      
+
+        public DbSet<TaskItem> Tasks { get; set; }
+
+        
+
     }
 }
